@@ -1,3 +1,4 @@
+import adult_data
 import pickle
 import numpy as np
 #import requests
