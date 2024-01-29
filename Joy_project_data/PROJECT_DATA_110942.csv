@@ -1,0 +1,150 @@
+Name ,Age ,Gender,Status,BMI ,Who do you live with?,Mother's/ Guardian's level of education,Mother's/ Guardian's occupation,Father's/ Guardian's level of education,Father's/ Guardian's occupation,Favorite food,Favorite drinks,Food preference,Person who prepares food at home,More than 5 times food consumption (Balanced diet),Weekly frequency of fast food consumption,Weekly frequency of vegetable consumption
+E. Gerard,12,male,N,19.3,1,4,3,5,3,Burgers,Soda,2,1,Yes,Twice ,More than 5 times
+G. Fadhili,11,male,N,15.1,1,5,3,5,3,Sausages,Fruit juice,2,1,Yes,Zero,More than 5 times
+T. Waita,11,male,N,15.9,1,5,2,5,3,Fries,Milk shake,2,1,Yes,Twice ,More than 5 times
+S. Njuguna,12,male,OV,22,1,6,1,6,2,Pizza,Soda,1,1,No,Thrice,More than 5 times
+D. Asher,11,male,N,16.4,2,4,3,5,3,Chicken,Soda,1,5,Yes,Twice ,More than 5 times
+J. Nzuki,12,male,N,17.5,2,5,3,5,2,Rice,Water,2,4,Yes,Zero,More than 5 times
+C. Munene,12,male,OV,21.2,1,4,3,4,3,Chapati,Soda,1,1,No,Thrice,More than 5 times
+M. Gitonga,12,male,N,17.2,1,6,2,6,2,Chicken,Soda,2,1,Yes,Twice ,More than 5 times
+G. Gichuhi,11,male,N,16.4,1,5,3,5,3,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+T. Kirimi,12,male,N,17.3,1,6,5,6,5,Pizza,Soda,2,1,Yes,Twice ,More than 5 times
+P. Davidson,11,male,N,15.8,1,6,2,6,1,Fries,Soda,1,2,Yes,Once,More than 5 times
+A. Moraa,12,female,OV,22.2,1,5,2,6,2,Pizza,Soda,2,4,Yes,Thrice,More than 5 times
+V. Waceke,12,female,N,18,1,4,2,4,2,Chicken,Soda,2,1,Yes,Once,More than 5 times
+Martha,11,female,OB,27.4,1,5,3,5,3,Chicken,Soda,1,5,Yes,More than 5 times,More than 5 times
+J. Bulimo,11,female,N,15.5,2,6,1,6,3,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+F. Adhiambo,13,female,N,16.6,2,5,3,5,3,Crisps,Soda,2,4,Yes,Once,More than 5 times
+N. Wakesho,12,female,OB,25,1,6,3,6,3,Ice cream,Soda,2,1,Yes,More than 5 times,More than 5 times
+A. Otara,11,female,N,14.7,2,5,3,5,3,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+T. Joy,11,female,N,15.2,2,5,3,6,5,Chapati,Soda,1,4,Yes,Twice ,More than 5 times
+V. Blessings,11,female,N,16.9,2,6,2,6,3,Pizza,Soda,2,1,Yes,Once,More than 5 times
+L. Wanjiku,11,female,N,16.1,1,6,2,6,2,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+A. Silole,11,female,N,17.8,1,6,3,6,2,Chicken,Fruit juice,1,1,Yes,Twice ,More than 5 times
+F. Wanjiru,12,female,N,16,1,6,1,6,1,Salad,Fruit juice,1,1,Yes,Once,More than 5 times
+Hellena,12,female,N,20.3,1,6,3,5,3,Pork,Fruit juice,2,1,Yes,Twice ,More than 5 times
+R. Naisula,12,female,N,19,1,4,1,4,3,Fries,Soda,2,1,Yes,Once,More than 5 times
+Rebbeca,12,female,OV,22.1,2,5,2,6,2,Chicken,Fruit juice,1,1,Yes,Once,More than 5 times
+B. Kagali,12,female,UN,14.6,1,2,2,6,3,Crisps,Soda,2,1,No,Twice ,More than 5 times
+P. Kaumbi,11,female,UN,13.9,1,6,3,6,2,Beef,Fruit juice,2,4,Yes,Zero,More than 5 times
+J. Amwanyi,12,female,N,17,2,6,2,6,3,Pizza,Fruit juice,2,3,Yes,Twice ,More than 5 times
+R. Muthoni,12,female,OV,23,1,6,3,6,3,Chicken,Soda,1,1,Yes,Once,More than 5 times
+A. Wanjiku,12,female,OB,27.2,2,5,3,5,3,Rice,Fruit juice,1,4,Yes,Thrice,More than 5 times
+T. Kemunto,12,female,N,19.7,1,5,3,5,2,Rice,Soda,1,1,Yes,Zero,More than 5 times
+L. Khayesi,12,female,N,19.2,1,6,2,6,3,Chicken,Fruit juice,1,1,Yes,Once,More than 5 times
+F. Safi,12,female,N,15.9,1,6,5,6,5,Chicken,Fruit juice,1,1,Yes,Once,More than 5 times
+J. Wambui,11,female,N,20.5,1,5,3,5,3,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+L. Muthoni,11,female,OB,24.8,1,6,1,6,3,Fish,Fruit juice,1,1,Yes,Twice ,More than 5 times
+J. Njeri,11,female,N,17.5,2,4,1,7,6,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+Z. Neema,11,female,OV,23.8,1,6,3,6,2,Beef,Water,1,1,Yes,Thrice,More than 5 times
+C. Wahu,11,female,UN,14.1,3,5,2,5,2,Pancakes,Fruit juice,1,4,Yes,Once,More than 5 times
+S. Musungu,11,female,OV,22.1,1,6,3,6,5,Chapati,Soda,1,1,Yes,Thrice,More than 5 times
+A. Metumi,11,female,N,19,2,6,3,6,3,Rice,Fruit juice,1,5,Yes,Twice ,More than 5 times
+A. Muthoni,10,female,N,17.8,1,5,3,6,2,Chapati,Milk,1,1,Yes,Once,More than 5 times
+N. Mueni,10,female,N,15.3,1,6,2,6,2,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+J. Akinyi,10,female,N,17.5,2,6,2,6,3,Chapati,Soda,1,1,Yes,Once,More than 5 times
+N. Langat,10,female,N,17.4,1,6,2,6,3,Chapati,Soda,1,3,Yes,Once,More than 5 times
+A. Chelagat,10,female,OV,20.3,1,6,1,6,3,Chapati,Soda,1,1,Yes,Zero,More than 5 times
+W. Wangui,10,female,N,14,2,6,2,6,2,Rice,Fruit juice,1,1,Yes,Twice ,More than 5 times
+B. Nyamu,10,female,N,16.2,1,5,3,5,3,Fries,Fruit juice,1,4,Yes,Once,More than 5 times
+M. Muthioni,12,male,N,18.4,1,5,1,5,3,Chapati,Fruit juice,1,5,Yes,Twice ,More than 5 times
+C. Wambu,12,male,N,19.8,1,5,3,5,3,Chicken,Soda,1,3,Yes,Twice ,More than 5 times
+K. Matheka,12,male,N,16.2,2,6,3,7,6,Beef,Soda,2,3,Yes,Once,More than 5 times
+N. Otondi,12,male,N,19.1,1,5,3,5,3,Pizza,Soda,2,3,Yes,Twice ,More than 5 times
+E. Kimani,11,male,N,15.2,1,5,1,5,2,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+E. Ochieng,11,male,N,16,1,6,2,6,3,Fries,Fruit juice,2,1,Yes,Twice ,More than 5 times
+R. Ambayo,11,male,N,17.8,1,5,3,5,3,Chicken,Soda,2,3,Yes,Twice ,More than 5 times
+K. Angeno,10,male,UN,14.1,1,5,2,4,1,Fries,Soda,1,2,Yes,Once,Less than 5 times
+S. Maison,10,male,OV,20.2,1,6,3,6,3,Pasta,Fruit juice,2,3,Yes,Thrice,More than 5 times
+R. Chege,12,male,N,15.7,1,5,3,5,3,Ugali,Soda,1,1,Yes,Twice ,More than 5 times
+N. Kagiri,13,male,UN,14.8,2,5,3,5,3,Fries,Soda,2,3,Yes,Twice ,More than 5 times
+B. Morara,13,male,N,18.9,1,5,3,5,3,Fries,Soda,1,1,Yes,Twice ,More than 5 times
+E. Newton,13,male,N,16.9,1,6,3,6,3,Pizza,Soda,2,4,Yes,Once,More than 5 times
+E. Osoro,13,male,N,17.5,1,5,3,5,3,Chicken,Soda,1,5,Yes,Twice ,Less than 5 times
+D. Ngetha,13,male,N,17.3,1,5,2,5,3,Pizza,Fruit juice,2,5,Yes,Twice ,Less than 5 times
+A. Chacha,13,male,OB,26.5,1,5,3,5,3,Chapati,Soda,1,1,Yes,More than 5 times,More than 5 times
+H. Shaban,13,male,OV,25.6,1,6,5,6,1,Pizza,Soda,2,4,Yes,More than 5 times,Less than 5 times
+P. Njaaga,13,male,N,16.8,1,6,2,5,3,Chicken,Fruit juice,1,1,Yes,Zero,More than 5 times
+Cedric,13,male,N,21.7,1,5,1,5,3,Rice,Soda,2,1,Yes,Twice ,More than 5 times
+B. Njeri,12,female,OV,24.1,1,5,2,4,2,Pizza,Soda,1,1,Yes,More than 5 times,Less than 5 times
+M. Alice,12,female,N,18.1,2,3,2,3,2,Pasta,Water,1,1,Yes,Once,More than 5 times
+M. Wambui,13,female,N,19.5,1,4,2,5,3,Chicken,Fruit juice,1,1,Yes,Twice ,More than 5 times
+J. Cherono,12,female,N,16.6,1,5,2,5,3,Chapati,Fruit juice,1,1,Yes,Zero,More than 5 times
+V. Gachambi,13,female,N,22.5,1,5,3,5,3,Pizza,Soda,2,4,Yes,Zero,More than 5 times
+L. Ganira,13,female,N,21.3,2,5,3,5,2,Rice,Soda,2,1,Yes,Twice ,More than 5 times
+M. Cindy,12,female,N,17.7,1,4,2,6,2,Cake,Soda,1,1,Yes,Once,More than 5 times
+F. Wangari,12,female,OB,31,1,4,2,4,2,Fries,Milk shake,1,1,Yes,Thrice,More than 5 times
+B. Toviel,12,female,N,20.8,1,5,3,5,2,Chicken,Milk shake,2,1,Yes,Once,More than 5 times
+A. Wambui,12,female,N,16.8,1,6,5,6,2,Rice,Milk shake,2,1,Yes,Twice ,Less than 5 times
+L. Mbula,13,female,OV,25.4,1,4,3,4,3,Rice,Soda,1,4,Yes,Thrice,Less than 5 times
+F. Victoria,13,female,OB,26.8,1,6,5,6,2,Fries,Soda,1,1,Yes,More than 5 times,More than 5 times
+S. Moraa,12,female,N,16.7,1,6,3,6,3,Chicken,Fruit juice,1,1,Yes,Twice ,More than 5 times
+A. Chemei,13,female,N,15.8,2,4,3,5,3,Rice,Soda,2,3,Yes,Thrice,More than 5 times
+N. Marlia,12,female,OV,23.9,1,5,3,5,2,Chapati,Milk shake,2,1,Yes,More than 5 times,Less than 5 times
+J. Stacy,13,female,N,21.2,2,4,3,5,2,Chicken,Fruit juice,1,1,Yes,Twice ,More than 5 times
+V. Liyayi,13,female,N,20.8,2,5,3,5,3,Chicken,Fruit juice,2,4,Yes,Once,More than 5 times
+Elsie,13,female,N,16.8,1,5,3,5,3,Fries,Fruit juice,2,4,Yes,Twice ,More than 5 times
+L. Breanna,12,female,N,18.8,2,6,3,6,3,Rice,Soda,1,3,Yes,Twice ,More than 5 times
+J. Mwalugo,12,female,N,19.6,1,5,5,5,5,Fries,Soda,1,1,Yes,Twice ,More than 5 times
+A. Wachene,13,female,N,21.2,2,5,3,5,3,Fries,Fruit juice,2,4,Yes,Twice ,More than 5 times
+V. Wangari,13,female,N,16.9,1,6,3,6,2,Chapati,Soda,2,1,Yes,Twice ,More than 5 times
+I. Manuli,13,female,N,18.6,2,6,3,6,3,Fish,Soda,2,4,Yes,Twice ,More than 5 times
+C. Murimi,12,female,N,20.7,1,5,3,5,2,Rice,Milk shake,2,4,Yes,Thrice,More than 5 times
+D. Asher,11,male,N,16.4,2,4,3,5,3,Chicken,Soda,1,5,Yes,Twice ,More than 5 times
+J. Nzuki,12,male,N,17.5,2,5,3,5,2,Rice,Water,2,4,Yes,Zero,More than 5 times
+C. Munene,12,male,OV,21.2,1,4,3,4,3,Chapati,Soda,1,1,No,Thrice,More than 5 times
+M. Gitonga,12,male,N,17.2,1,6,2,6,2,Chicken,Soda,2,1,Yes,Twice ,More than 5 times
+G. Gichuhi,11,male,N,16.4,1,5,3,5,3,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+T. Kirimi,12,male,N,17.3,1,6,5,6,5,Pizza,Soda,2,1,Yes,Twice ,More than 5 times
+J. Bulimo,11,female,N,15.5,2,6,1,6,3,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+F. Adhiambo,13,female,N,16.6,2,5,3,5,3,Crisps,Soda,2,4,Yes,Once,More than 5 times
+N. Wakesho,12,female,OB,25,1,6,3,6,3,Ice cream,Soda,2,1,Yes,More than 5 times,More than 5 times
+A. Otara,11,female,N,14.7,2,5,3,5,3,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+T. Joy,11,female,N,15.2,2,5,3,6,5,Chapati,Soda,1,4,Yes,Twice ,More than 5 times
+V. Blessings,11,female,N,16.9,2,6,2,6,3,Pizza,Soda,2,1,Yes,Once,More than 5 times
+L. Wanjiku,11,female,N,16.1,1,6,2,6,2,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+A. Silole,11,female,N,17.8,1,6,3,6,2,Chicken,Fruit juice,1,1,Yes,Twice ,More than 5 times
+F. Wanjiru,12,female,N,16,1,6,1,6,1,Salad,Fruit juice,1,1,Yes,Once,More than 5 times
+Hellena,12,female,N,20.3,1,6,3,5,3,Pork,Fruit juice,2,1,Yes,Twice ,More than 5 times
+T. Kemunto,12,female,N,19.7,1,5,3,5,2,Rice,Soda,1,1,Yes,Zero,More than 5 times
+L. Khayesi,12,female,N,19.2,1,6,2,6,3,Chicken,Fruit juice,1,1,Yes,Once,More than 5 times
+F. Safi,12,female,N,15.9,1,6,5,6,5,Chicken,Fruit juice,1,1,Yes,Once,More than 5 times
+J. Wambui,11,female,N,20.5,1,5,3,5,3,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+L. Muthoni,11,female,OB,24.8,1,6,1,6,3,Fish,Fruit juice,1,1,Yes,Twice ,More than 5 times
+J. Njeri,11,female,N,17.5,2,4,1,7,6,Rice,Soda,1,1,Yes,Twice ,More than 5 times
+S. Musungu,11,female,OV,22.1,1,6,3,6,5,Chapati,Soda,1,1,Yes,Thrice,More than 5 times
+A. Metumi,11,female,N,19,2,6,3,6,3,Rice,Fruit juice,1,5,Yes,Twice ,More than 5 times
+A. Muthoni,10,female,N,17.8,1,5,3,6,2,Chapati,Milk,1,1,Yes,Once,More than 5 times
+N. Mueni,10,female,N,15.3,1,6,2,6,2,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+J. Akinyi,10,female,N,17.5,2,6,2,6,3,Chapati,Soda,1,1,Yes,Once,More than 5 times
+N. Langat,10,female,N,17.4,1,6,2,6,3,Chapati,Soda,1,3,Yes,Once,More than 5 times
+A. Chelagat,10,female,OV,20.3,1,6,1,6,3,Chapati,Soda,1,1,Yes,Zero,More than 5 times
+W. Wangui,10,female,N,14,2,6,2,6,2,Rice,Fruit juice,1,1,Yes,Twice ,More than 5 times
+B. Nyamu,10,female,N,16.2,1,5,3,5,3,Fries,Fruit juice,1,4,Yes,Once,More than 5 times
+E. Gerard,12,male,N,19.3,1,4,3,5,3,Burgers,Soda,2,1,Yes,Twice ,More than 5 times
+G. Fadhili,11,male,N,15.1,1,5,3,5,3,Sausages,Fruit juice,2,1,Yes,Zero,More than 5 times
+T. Waita,11,male,N,15.9,1,5,2,5,3,Fries,Milk shake,2,1,Yes,Twice ,More than 5 times
+S. Njuguna,12,male,OV,22,1,6,1,6,2,Pizza,Soda,1,1,No,Thrice,More than 5 times
+B. Morara,13,male,N,18.9,1,5,3,5,3,Fries,Soda,1,1,Yes,Twice ,More than 5 times
+E. Newton,13,male,N,16.9,1,6,3,6,3,Pizza,Soda,2,4,Yes,Once,More than 5 times
+E. Osoro,13,male,N,17.5,1,5,3,5,3,Chicken,Soda,1,5,Yes,Twice ,Less than 5 times
+F. Adhiambo,13,female,N,16.6,2,5,3,5,3,Crisps,Soda,2,4,Yes,Once,More than 5 times
+N. Wakesho,12,female,OB,25,1,6,3,6,3,Ice cream,Soda,2,1,Yes,More than 5 times,More than 5 times
+A. Otara,11,female,N,14.7,2,5,3,5,3,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+T. Joy,11,female,N,15.2,2,5,3,6,5,Chapati,Soda,1,4,Yes,Twice ,More than 5 times
+V. Blessings,11,female,N,16.9,2,6,2,6,3,Pizza,Soda,2,1,Yes,Once,More than 5 times
+L. Wanjiku,11,female,N,16.1,1,6,2,6,2,Fries,Soda,2,1,Yes,Twice ,More than 5 times
+A. Silole,11,female,N,17.8,1,6,3,6,2,Chicken,Fruit juice,1,1,Yes,Twice ,More than 5 times
+F. Wanjiru,12,female,N,16,1,6,1,6,1,Salad,Fruit juice,1,1,Yes,Once,More than 5 times
+Hellena,12,female,N,20.3,1,6,3,5,3,Pork,Fruit juice,2,1,Yes,Twice ,More than 5 times
+R. Naisula,12,female,N,19,1,4,1,4,3,Fries,Soda,2,1,Yes,Once,More than 5 times
+Rebbeca,12,female,OV,22.1,2,5,2,6,2,Chicken,Fruit juice,1,1,Yes,Once,More than 5 times
+E. Ochieng,11,male,N,16,1,6,2,6,3,Fries,Fruit juice,2,1,Yes,Twice ,More than 5 times
+R. Ambayo,11,male,N,17.8,1,5,3,5,3,Chicken,Soda,2,3,Yes,Twice ,More than 5 times
+K. Angeno,10,male,UN,14.1,1,5,2,4,1,Fries,Soda,1,2,Yes,Once,Less than 5 times
+S. Maison,10,male,OV,20.2,1,6,3,6,3,Pasta,Fruit juice,2,3,Yes,Thrice,More than 5 times
+R. Chege,12,male,N,15.7,1,5,3,5,3,Ugali,Soda,1,1,Yes,Twice ,More than 5 times
+N. Kagiri,13,male,UN,14.8,2,5,3,5,3,Fries,Soda,2,3,Yes,Twice ,More than 5 times
+B. Morara,13,male,N,18.9,1,5,3,5,3,Fries,Soda,1,1,Yes,Twice ,More than 5 times
+E. Newton,13,male,N,16.9,1,6,3,6,3,Pizza,Soda,2,4,Yes,Once,More than 5 times
+E. Osoro,13,male,N,17.5,1,5,3,5,3,Chicken,Soda,1,5,Yes,Twice ,Less than 5 times

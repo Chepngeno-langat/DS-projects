@@ -1,0 +1,150 @@
+Gender,Status,Breakfast (Food),Lunch,Dinner,Snack (Food),Breakfast (Drink),Snack (Drink)
+male,N,white bread,School lunch,rice ,Fruits,Milk tea,Water
+male,N,Sweet potatoes,School lunch,ugali ,No snack,Milk tea,Water
+male,N,white bread,School lunch without meat,ugali ,Fruits,Fruit juice,Water
+male,OV,Mandazi,School lunch,rice ,Cake,Milk tea,No snack
+male,N,white bread,School lunch,chapati,Fruits,Milk tea,Water
+male,N,white bread,School lunch,githeri,No snack,Fruit juice,Water
+male,OV,Sausages,School lunch,rice ,Fruits,Milk tea,Fruit juice
+male,N,Arrow root,School lunch,rice ,Fruits,Milk tea,Water
+male,N,white bread,School lunch,chapati,No snack,Milk tea,Water
+male,N,Cakes,School lunch,ugali ,No snack,Hot chocolate,Water
+male,N,Sweet potatoes,School lunch,ugali ,Fruits,Milk tea,Water
+female,OV,Sausages,School lunch,pasta ,Cake,Milk tea,Soda
+female,N,Mandazi,School lunch,rice ,Fruits,Milk ,No snack
+female,OB,Mandazi,School lunch,mokimo,No snack,Milk tea,Water
+female,N,Sweet potatoes,School lunch,ugali ,Biscuits,Milk tea,Water
+female,N,Sausages,School lunch,rice ,Fruits,Hot chocolate,Water
+female,OB,Mandazi,School lunch,chapati,Cake,Milk tea,No snack
+female,N,white bread,School lunch,chapati,Fruits,Milk tea,Water
+female,N,Mandazi,School lunch,ugali ,Fruits,Milk tea,Water
+female,N,white bread,School lunch,ugali ,Biscuits,Milk tea,Water
+female,N,Mandazi,School lunch,githeri,Fruits,Milk ,Water
+female,N,Arrow root,School lunch,rice ,Fruits,Milk tea,Water
+female,N,Sausages,School lunch,rice ,Fruits,Hot chocolate,Fruit juice
+female,N,white bread,School lunch,rice ,Fruits,Milk tea,Water
+female,N,Cakes,School lunch,pasta ,No snack,Milk tea,Water
+female,OV,white bread,School lunch,chapati,Cake,Milk tea,Soda
+female,UN,Sausages,School lunch without meat,ugali ,Cake,Cocoa,Water
+female,UN,Mandazi,School lunch,ugali ,No snack,Milk tea,Water
+female,N,white bread,School lunch,githeri,No snack,Milk tea,Water
+female,OV,white bread,School lunch,ugali ,Cake,Milk tea,Milk 
+female,OB,Sausages,School lunch,rice ,No snack,Milk tea,Water
+female,N,Mandazi,School lunch,ugali ,No snack,Hot chocolate,Water
+female,N,white bread,School lunch,chapati,Fruits,Milk tea,Water
+female,N,Cakes,School lunch without meat,chapati,Fruits,Black tea,Water
+female,N,Sweet potatoes,School lunch,ugali ,No snack,Milk tea,No snack
+female,OB,Sausages,School lunch,githeri,Fruits,Milk tea,Water
+female,N,Mandazi,School lunch,ugali ,Biscuits,Cocoa,Water
+female,OV,Sausages,School lunch,mokimo,No snack,Milk tea,Water
+female,UN,white bread,School lunch,rice ,Fruits,Fruit juice,Water
+female,OV,Mandazi,School lunch,chapati,No snack,Milk tea,No snack
+female,N,white bread,School lunch,chapati,No snack,Milk tea,Water
+female,N,Sausages,School lunch,ugali ,Fruits,Milk tea,Fruit juice
+female,N,Mandazi,School lunch,ugali ,Fruits,Hot chocolate,Water
+female,N,Cakes,School lunch,rice ,Cake,Milk tea,Water
+female,N,white bread,School lunch,chapati,Fruits,Milk tea,Water
+female,OV,Sausages,School lunch,chapati,Fruits,Milk tea,Fruit juice
+female,N,Sausages,School lunch,githeri,No snack,Milk tea,Water
+female,N,white bread,School lunch,ugali ,Cake,Milk tea,Water
+male,N,Mandazi,School lunch,ugali ,Fruits,Milk tea,No snack
+male,N,white bread,School lunch,rice ,Fruits,Milk tea,Water
+male,N,Mandazi,School lunch,rice ,Fruits,Milk tea,Milk 
+male,N,Mandazi,School lunch,githeri,Fruits,Milk tea,Water
+male,N,Mandazi,School lunch,chapati,Fruits,Hot chocolate,Water
+male,N,Sausages,School lunch,mokimo,Fruits,Milk tea,No snack
+male,N,white bread,School lunch,ugali ,No snack,Milk tea,No snack
+male,UN,Mandazi,School lunch without meat,pasta ,No snack,Fruit juice,Water
+male,OV,Sausages,School lunch,ugali ,Fruits,Milk tea,Water
+male,N,white bread,School lunch,rice ,Biscuits,Milk tea,Water
+male,UN,Mandazi,School lunch,rice ,Fruits,Milk tea,Water
+male,N,Mandazi,School lunch,githeri,Fruits,Hot chocolate,Water
+male,N,Sweet potatoes,School lunch,ugali ,Fruits,Milk tea,No snack
+male,N,Cakes,School lunch,ugali ,No snack,Milk tea,Water
+male,N,white bread,School lunch,pasta ,No snack,Cocoa,Water
+male,OB,white bread,School lunch,chapati,Fruits,Milk tea,Fruit juice
+male,OV,Mandazi,School lunch,chapati,Cake,Hot chocolate,Water
+male,N,Arrow root,School lunch,ugali ,Fruits,Milk tea,Water
+male,N,Sausages,School lunch,ugali ,Fruits,Milk tea,Water
+female,OV,Mandazi,School lunch,githeri,No snack,Fruit juice,Water
+female,N,Mandazi,School lunch,chapati,Fruits,Milk tea,Water
+female,N,white bread,School lunch,ugali ,Fruits,Milk tea,No snack
+female,N,Sausages,School lunch,rice ,Biscuits,Milk tea,Water
+female,N,white bread,School lunch,ugali ,No snack,Milk tea,Water
+female,N,white bread,School lunch,ugali ,Fruits,Milk tea,Milk 
+female,N,Cakes,School lunch,ugali ,Fruits,Milk tea,Water
+female,OB,Sausages,School lunch,githeri,Cake,Milk tea,Soda
+female,N,Mandazi,School lunch,chapati,No snack,Milk tea,Water
+female,N,Mandazi,School lunch,chapati,Fruits,Hot chocolate,Water
+female,OV,Mandazi,School lunch,ugali ,Fruits,Milk tea,Water
+female,OB,Sausages,School lunch,pasta ,No snack,Milk tea,No snack
+female,N,white bread,School lunch,rice ,Fruits,Milk tea,Water
+female,N,Sweet potatoes,School lunch,githeri,Fruits,Milk tea,Water
+female,OV,Mandazi,School lunch,chapati,Cake,Milk tea,Water
+female,N,Mandazi,School lunch,ugali ,Biscuits,Fruit juice,No snack
+female,N,Arrow root,School lunch,ugali ,Fruits,Milk tea,Water
+female,N,white bread,School lunch,mokimo,Fruits,Milk tea,Water
+female,N,Cakes,School lunch,ugali ,No snack,Milk tea,Water
+female,N,white bread,School lunch without meat,chapati,No snack,Fruit juice,Water
+female,N,white bread,School lunch,chapati,Fruits,Milk tea,Water
+female,N,Sausages,School lunch,rice ,Fruits,Milk ,Water
+female,N,Sausages,School lunch,rice ,Biscuits,Milk tea,Water
+female,N,white bread,School lunch,pasta ,Cake,Milk tea,No snack
+male,N,Mandazi,School lunch,ugali ,No snack,Hot chocolate,No snack
+male,N,Mandazi,School lunch,ugali ,Fruits,Hot chocolate,Water
+male,OV,white bread,School lunch,githeri,No snack,Milk tea,Water
+male,N,Mandazi,School lunch,chapati,No snack,Milk tea,Milk 
+male,N,Sweet potatoes,School lunch,rice ,No snack,Milk tea,Water
+male,N,white bread,School lunch,rice ,Fruits,Milk tea,Fruit juice
+female,N,Cakes,School lunch,chapati,Fruits,Cocoa,Water
+female,N,Sausages,School lunch,ugali ,Fruits,Milk tea,Water
+female,OB,Mandazi,School lunch,pasta ,No snack,Fruit juice,Fruit juice
+female,N,Mandazi,School lunch,ugali ,No snack,Milk tea,Water
+female,N,Cakes,School lunch,ugali ,Cake,Milk tea,Water
+female,N,Sweet potatoes,School lunch,rice ,Fruits,Milk tea,Soda
+female,N,Mandazi,School lunch,chapati,Fruits,Milk ,Water
+female,N,white bread,School lunch,rice ,Fruits,Milk tea,No snack
+female,N,white bread,School lunch,rice ,No snack,Hot chocolate,Water
+female,N,Cakes,School lunch,rice ,No snack,Milk tea,Water
+female,N,white bread,School lunch,githeri,No snack,Hot chocolate,Water
+female,N,Mandazi,School lunch,ugali ,Fruits,Milk tea,No snack
+female,N,Cakes,School lunch,ugali ,No snack,Milk tea,Water
+female,N,white bread,School lunch,githeri,Fruits,Milk tea,Water
+female,OB,Mandazi,School lunch,ugali ,Biscuits,Milk tea,Fruit juice
+female,N,Mandazi,School lunch,rice ,Fruits,Fruit juice,Water
+female,OV,Mandazi,School lunch,chapati,No snack,Milk tea,Water
+female,N,Mandazi,School lunch,mokimo,Fruits,Milk tea,Water
+female,N,white bread,School lunch,ugali ,No snack,Milk tea,Water
+female,N,white bread,School lunch,rice ,Cake,Milk tea,No snack
+female,N,white bread,School lunch,ugali ,Fruits,Hot chocolate,Water
+female,N,Mandazi,School lunch,ugali ,Fruits,Milk tea,Water
+female,OV,Mandazi,School lunch,rice ,No snack,Milk tea,Water
+female,N,white bread,School lunch,ugali ,Fruits,Cocoa,Water
+female,N,white bread,School lunch,rice ,Cake,Milk tea,Water
+male,N,white bread,School lunch,pasta ,No snack,Milk tea,Fruit juice
+male,N,Sweet potatoes,School lunch,ugali ,Biscuits,Milk tea,Water
+male,N,white bread,School lunch,ugali ,Fruits,Hot chocolate,Water
+male,OV,Cakes,School lunch,chapati,Fruits,Milk tea,Water
+male,N,Mandazi,School lunch,chapati,No snack,Milk tea,Water
+male,N,white bread,School lunch,rice ,Fruits,Milk tea,Water
+male,N,brown bread,School lunch,chapati,No snack,Milk ,Water
+female,N,white bread,School lunch,ugali ,Fruits,Milk tea,No snack
+female,OB,white bread,School lunch,mokimo,Cake,Milk tea,Fruit juice
+female,N,brown bread,School lunch,githeri,No snack,Hot chocolate,Water
+female,N,white bread,School lunch,ugali ,No snack,Milk tea,Water
+female,N,brown bread,School lunch,chapati,Fruits,Milk tea,Water
+female,N,brown bread,School lunch without meat,rice ,Fruits,Hot chocolate,Water
+female,N,Arrow root,School lunch,ugali ,No snack,Milk tea,Water
+female,N,brown bread,School lunch,ugali ,Fruits,Milk tea,Water
+female,N,white bread,School lunch,rice ,No snack,Milk tea,No snack
+female,N,white bread,School lunch,ugali ,Fruits,Milk tea,Water
+female,OV,Sausages,School lunch,mokimo,Biscuits,Milk tea,Soda
+male,N,Mandazi,School lunch,ugali ,No snack,Hot chocolate,Water
+male,N,Sweet potatoes,School lunch,chapati,Fruits,Milk tea,Fruit juice
+male,UN,brown bread,School lunch,chapati,Fruits,Milk tea,Water
+male,OV,Mandazi,School lunch,chapati,Cake,Milk tea,Water
+male,N,white bread,School lunch,ugali ,Fruits,Milk tea,Water
+male,UN,Mandazi,School lunch without meat,pasta ,No snack,Fruit juice,Water
+male,N,Sausages,School lunch,rice ,No snack,Milk tea,Fruit juice
+male,N,Mandazi,School lunch,rice ,Fruits,Milk tea,Water
+male,N,Cakes,School lunch,ugali ,Fruits,Milk ,Water
