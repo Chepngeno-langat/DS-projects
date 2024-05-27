@@ -20,32 +20,41 @@ def home():
 
 @app.route('/predict', methods=['POST'])
 def predict():
-    data = request.get_json()
-    # Extract features from JSON data
-    input_features = data['features']
+    try:
+        data = request.get_json()
+        # Extract features from JSON data
+        input_features = data['features']
 
-    # Create a DataFrame from the input features
-    input_data = pd.DataFrame([input_features])
+        # Create a DataFrame from the input features
+        input_data = pd.DataFrame([input_features])
 
-    # Separate numerical and categorical data
-    numerical_data = input_data[numerical_features]
-    categorical_data = input_data[categorical_features]
+        # Separate numerical and categorical data
+        numerical_data = input_data[numerical_features]
+        categorical_data = input_data[categorical_features]
 
-    # Encode the categorical data
-    encoded_categorical_data = one_hot_encoder.transform(categorical_data)
+        # Encode the categorical data
+        encoded_categorical_data = one_hot_encoder.transform(categorical_data)
 
-    # Create a DataFrame with the encoded categorical data
-    encoded_categorical_df = pd.DataFrame(encoded_categorical_data,
-                                          columns=one_hot_encoder.get_feature_names_out(categorical_features))
+        # Create a DataFrame with the encoded categorical data
+        encoded_categorical_df = pd.DataFrame(encoded_categorical_data,
+                                              columns=one_hot_encoder.get_feature_names_out(categorical_features))
 
-    # # Combine numerical and encoded categorical data
-    final_input_data = pd.concat([numerical_data.reset_index(drop=True), encoded_categorical_df.reset_index(drop=True)],
-                                 axis=1)
+        # # Combine numerical and encoded categorical data
+        final_input_data = pd.concat([numerical_data.reset_index(drop=True), encoded_categorical_df.reset_index(drop=True)],
+                                     axis=1)
 
-    # Make a prediction using the loaded model
-    prediction = model.predict(final_input_data)
+        # Make a prediction using the loaded model
+        prediction = model.predict(final_input_data)
 
-    return jsonify({'prediction': math.ceil(float(prediction[0]))})
+        return jsonify({'prediction': math.ceil(float(prediction[0]))})
+
+    except Exception as e:
+        return jsonify({'error': str(e)})
+
+# Health check endpoint
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok'})
 
 if __name__ == '__main__':
     app.run(debug=True)
