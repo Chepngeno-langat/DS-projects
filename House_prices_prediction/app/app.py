@@ -1,15 +1,23 @@
 from flask import Flask, request, jsonify, render_template
-from sklearn.preprocessing import OneHotEncoder
 import joblib
-import numpy as np
 import pandas as pd
 import math
+import os
 
 app = Flask(__name__)
 
-model = joblib.load('gb_model.pkl')
-model_columns = joblib.load('model_columns.pkl')
-one_hot_encoder = joblib.load('one_hot_encoder.pkl')
+# model = joblib.load('/app/notebooks/gb_model.pkl')
+# model_columns = joblib.load('/app/notebooks/model_columns.pkl')
+# one_hot_encoder = joblib.load('/app/notebooks/one_hot_encoder.pkl')
+
+# Adjust the paths to be relative to the app directory
+model_path = os.path.join(os.path.dirname(__file__), '../notebooks/gb_model.pkl')
+model_columns_path = os.path.join(os.path.dirname(__file__), '../notebooks/model_columns.pkl')
+one_hot_encoder_path = os.path.join(os.path.dirname(__file__), '../notebooks/one_hot_encoder.pkl')
+
+model = joblib.load(model_path)
+model_columns = joblib.load(model_columns_path)
+one_hot_encoder = joblib.load(one_hot_encoder_path)
 
 categorical_features = ['mainroad', 'guestroom', 'basement', 'hotwaterheating', 'airconditioning', 'prefarea', 'furnishingstatus']
 numerical_features = ['area', 'bedrooms', 'bathrooms', 'stories', 'parking']
