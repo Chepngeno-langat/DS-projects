@@ -1,5 +1,5 @@
 # Use the official Python image from the Docker Hub
-FROM python:3.8-slim
+FROM python:3.10-slim
 
 # Set the working directory
 WORKDIR /app
@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Set the environment variables for Flask
-ENV FLASK_APP=app/app.py
+ENV FLASK_APP=app.app
 ENV FLASK_RUN_HOST=0.0.0.0
 ENV FLASK_ENV=production
 
