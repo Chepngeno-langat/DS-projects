@@ -1,0 +1,92 @@
+Name,Age,Gender,Status,BMI,Fat= Healthy,Thin= Unhealthy,Eat more when emotional,Eat less when emotional,Rewarded with food,Feelings about weight
+E. Gerard,12,male,N,19.3,F,T,Sometimes,Sometimes,Yes,Okay
+G. Fadhili,11,male,N,15.1,F,T,Always,Never,Yes,Too fat
+T. Waita,11,male,N,15.9,F,T,Sometimes,Sometimes,Yes,Okay
+S. Njuguna,12,male,OV,22,F,F,Sometimes,Sometimes,Yes,Don’t know
+D. Asher,11,male,N,16.4,F,F,Sometimes,Sometimes,Yes,Too fat
+J. Nzuki,12,male,N,17.5,F,T,Sometimes,Sometimes,Yes,Okay
+C. Munene,12,male,OV,21.2,F,T,Sometimes,Sometimes,Yes,Okay
+M. Gitonga,12,male,N,17.2,T,T,Sometimes,Never,No,Okay
+G. Gichuhi,11,male,N,16.4,F,T,Sometimes,Always,Yes,Okay
+T. Kirimi,12,male,N,17.3,F,T,Never,Never,Sometimes,Don’t know
+P. Davidson,11,male,N,15.8,F,T,Sometimes,Never,Yes,Okay
+A. Moraa,12,female,OV,22.2,F,T,Sometimes,Always,Yes,Okay
+V. Waceke,12,female,N,18,F,F,Sometimes,Sometimes,No,Too fat
+Martha,11,female,OB,27.4,F,F,Never,Always,Yes,Too fat
+J. Bulimo,11,female,N,15.5,F,T,Sometimes,Sometimes,No,Too thin
+F. Adhiambo,13,female,N,16.6,F,T,Sometimes,Sometimes,Yes,Too thin
+N. Wakesho,12,female,OB,25,F,T,Never,Sometimes,No,Okay
+A. Otara,11,female,N,14.7,F,T,Never,Sometimes,Yes,Okay
+T. Joy,11,female,N,15.2,F,T,Sometimes,Never,Sometimes,Okay
+V. Blessings,11,female,N,16.9,F,T,Sometimes,Always,Yes,Okay
+L. Wanjiku,11,female,N,16.1,F,F,Never,Always,Yes,Don’t know
+A. Silole,11,female,N,17.8,F,T,Sometimes,Sometimes,Sometimes,Okay
+F. Wanjiru,12,female,N,16,T,T,Never,Sometimes,Sometimes,Okay
+Hellena,12,female,N,20.3,F,T,Sometimes,Sometimes,Yes,Okay
+R. Naisula,12,female,N,19,F,F,Never,Sometimes,Yes,Okay
+Rebbeca,12,female,OV,22.1,F,F,Never,Sometimes,Sometimes,Don’t know
+B. Kagali,12,female,UN,14.6,F,T,Never,Never,Yes,Okay
+P. Kaumbi,11,female,UN,13.9,F,F,Never,Never,Yes,Okay
+J. Amwanyi,12,female,N,17,F,F,Never,Sometimes,Sometimes,Don’t know
+R. Muthoni,12,female,OV,23,F,T,Never,Never,No,Okay
+A. Wanjiku,12,female,OB,27.2,F,F,Never,Always,No,Okay
+T. Kemunto,12,female,N,19.7,F,T,Never,Sometimes,No,Okay
+L. Khayesi,12,female,N,19.2,F,T,Sometimes,Always,Yes,Okay
+F. Safi,12,female,N,15.9,F,T,Never,Sometimes,No,Okay
+J. Wambui,11,female,N,20.5,F,F,Sometimes,Sometimes,Yes,Okay
+L. Muthoni,11,female,OB,24.8,F,F,Never,Never,No,Too fat
+J. Njeri,11,female,N,17.5,F,T,Sometimes,Never,Yes,Okay
+Z. Neema,11,female,OV,23.8,F,T,Sometimes,Sometimes,No,Too fat
+C. Wahu,11,female,UN,14.1,F,F,Sometimes,Always,Yes,Too thin
+S. Musungu,11,female,OV,22.1,T,T,Sometimes,Sometimes,Yes,Too fat
+A. Metumi,11,female,N,19,F,F,Never,Sometimes,Yes,Okay
+A. Muthoni,10,female,N,17.8,T,F,Sometimes,Always,No,Okay
+N. Mueni,10,female,N,15.3,F,F,Sometimes,Always,Sometimes,Too thin
+J. Akinyi,10,female,N,17.5,F,T,Sometimes,Always,Sometimes,Okay
+N. Langat,10,female,N,17.4,F,T,Never,Sometimes,Sometimes,Don’t know
+A. Chelagat,10,female,OV,20.3,F,F,Never,Sometimes,Yes,Okay
+W. Wangui,10,female,N,14,F,T,Sometimes,Never,No,Okay
+B. Nyamu,10,female,N,16.2,F,T,Never,Never,Yes,Okay
+M. Muthiora,12,male,N,18.4,F,F,Always,Sometimes,No,Okay
+C. Wambu,12,male,N,19.8,T,F,Always,Never,Yes,Okay
+K. Matheka,12,male,N,16.2,F,F,Sometimes,Never,No,Okay
+N. Otondi,12,male,N,19.1,F,T,Never,Always,Yes,Okay
+E. Kimani,11,male,N,15.2,F,T,Sometimes,Sometimes,No,Okay
+E. Ochieng,11,male,N,16,T,F,Never,Never,Yes,Okay
+R. Ambayo,11,male,N,17.8,T,F,Always,Never,Yes,Okay
+K. Angeno,10,male,UN,14.1,T,F,Always,Never,No,Okay
+S. Maison,10,male,OV,20.2,T,F,Sometimes,Sometimes,Yes,Okay
+R. Chege,12,male,N,15.7,F,T,Always,Never,Sometimes,Okay
+N. Kagiri,13,male,UN,14.8,F,F,Sometimes,Never,No,Okay
+B. Morara,13,male,N,18.9,F,T,Always,Never,No,Don’t know
+E. Newton,13,male,N,16.9,F,F,Sometimes,Sometimes,Yes,Okay
+E. Osoro,13,male,N,17.5,F,F,Sometimes,Sometimes,No,Okay
+D. Ngetha,13,male,N,17.3,F,F,Never,Never,Yes,Okay
+A. Chacha,13,male,OB,26.5,F,F,Never,Sometimes,No,Okay
+H. Shaban,13,male,OV,25.6,T,F,Always,Never,Sometimes,Okay
+P. Njaaga,13,male,N,16.8,F,F,Sometimes,Sometimes,Sometimes,Okay
+Cedric,13,male,N,21.7,F,F,Sometimes,Sometimes,Yes,Okay
+B. Njeri,12,female,OV,24.1,F,F,Always,Sometimes,Sometimes,Okay
+M. Alice,12,female,N,18.1,F,F,Never,Never,No,Okay
+M. Wambui,13,female,N,19.5,F,T,Sometimes,Always,Sometimes,Okay
+J. Cherono,12,female,N,16.6,F,F,Always,Never,Yes,Okay
+V. Gachambi,13,female,N,22.5,T,F,Never,Always,Yes,Okay
+L. Ganira,13,female,N,21.3,F,F,Sometimes,Always,Yes,Okay
+M. Cindy,12,female,N,17.7,F,F,Sometimes,Sometimes,Yes,Okay
+F. Wangari,12,female,OB,31,F,T,Sometimes,Never,Sometimes,Okay
+B. Toviel,12,female,N,20.8,T,F,Always,Sometimes,Yes,Okay
+A. Wambui,12,female,N,16.8,F,T,Never,Never,Yes,Don’t know
+L. Mbula,13,female,OV,25.4,T,F,Sometimes,Sometimes,Yes,Okay
+F. Victoria,13,female,OB,26.8,F,F,Sometimes,Always,Sometimes,Don’t know
+S. Moraa,12,female,N,16.7,F,F,Always,Always,Yes,Okay
+A. Chemei,13,female,N,15.8,F,F,Always,Never,Yes,Okay
+N. Marlia,12,female,OV,23.9,F,T,Always,Never,Sometimes,Okay
+J. Stacy,13,female,N,21.2,F,T,Sometimes,Sometimes,Sometimes,Okay
+V. Liyayi,13,female,N,20.8,F,F,Always,Sometimes,Sometimes,Okay
+Elsie,13,female,N,16.8,F,T,Always,Always,Yes,Okay
+L. Breanna,12,female,N,18.8,F,T,Always,Never,No,Okay
+J. Mwalugo,12,female,N,19.6,F,F,Always,Never,Sometimes,Okay
+A. Wachene,13,female,N,21.2,T,F,Sometimes,Sometimes,Sometimes,Okay
+V. Wangari,13,female,N,16.9,T,F,Sometimes,Never,Sometimes,Okay
+I. Manuli,13,female,N,18.6,T,T,Always,Never,Yes,Okay
+C. Murimi,12,female,N,20.7,F,T,Always,Sometimes,Yes,Okay
